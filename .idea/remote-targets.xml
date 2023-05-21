@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="zakiego@103.30.194.102:22" type="ssh/sftp" uuid="5b53f5cb-8a6a-49fc-8194-a2f072a58f39">
+        <config>
+          <option name="projectRootOnTarget" value="/home/zakiego/learn-gin" />
+          <option name="serverName" value="zakiego@103.30.194.102:22 password" />
+          <option name="useRsync" value="true" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
